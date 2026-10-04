@@ -58,8 +58,6 @@ formulario.addEventListener("submit", function(event) {
 
         method: "POST",
 
-        mode: "no-cors",
-
         body: JSON.stringify(datos)
 
     });
