@@ -1,4 +1,4 @@
-const URL = "PEGA_AQUI_TU_URL_DE_APPS_SCRIPT";
+const URL = "https://script.google.com/macros/s/AKfycbzabAo2z4BzOESZmfCUJxfE4G2jNVubGPXii3sc3brDtHngaaz6UmpzRM7QBfTxKnpFIA/exec";
 
 const formulario = document.querySelector("form");
 
